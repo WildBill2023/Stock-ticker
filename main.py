@@ -9,7 +9,7 @@ stocks_dict = {
   "MPW":"8.56",
   "LUV":"29.41",
   "DPZ":"316.40"}
-
+gdnjr
 fini = False  # boolean flag variable
 while not fini:  # keep looping until fini is set to True
     
